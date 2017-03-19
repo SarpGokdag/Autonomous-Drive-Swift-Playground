@@ -14,6 +14,8 @@ When we press to start button our autonomous car which is actually our computer 
 1-)What if there are two ("0") in our route , which ("0") is going to be selected ? 
 Answer : Well , in real life there are different ways to find the route but in this playground we don't want a complexe algorithm.So the answer is , our computer will select ("0") randomly.
 
+![giphy](https://cloud.githubusercontent.com/assets/26510259/24083960/df0869fc-0ce9-11e7-9e2c-a9c9631e629c.gif)
+
 
 2-)Can Our Algorithm Exit From The Matrix System ? 
 Answer : No it can't exit from our matrix because in our playground i've add a boundary limit.
